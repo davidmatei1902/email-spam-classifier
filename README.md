@@ -75,7 +75,8 @@ We prioritized the **Confusion Matrix** to analyze specific error types:
 
 ## 3. Comparative Results & Conclusion
 
-During evaluation, **SVM** proved to be the superior model, achieving an accuracy of **0.9816**, compared to **0.9768** for **Naive Bayes**.
+During evaluation, **SVM** proved to be the superior model, achieving an accuracy of **98.16%**, compared to **97.68%** for **Naive Bayes**.
 
 **Final Verdict:**
+
 We selected SVM as the final solution because it maximized accuracy while maintaining an optimal balance between *Precision* and *Recall*. As evidenced by the strong main diagonal in the confusion matrix, SVM demonstrated a robust ability to generalize, minimizing false alarms (False Positives) better than the alternative.
