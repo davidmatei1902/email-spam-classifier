@@ -1,4 +1,4 @@
-# Project Documentation: Spam vs. Ham Email Classification
+# Spam vs. Ham Email Classification
 
 This document outlines the methodology and rationale behind implementing a Machine Learning solution to classify email messages as **Ham** (legitimate) or **Spam**.
 
